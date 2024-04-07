@@ -34,7 +34,7 @@ camera works with the help of different image processing techniques.
   
   Step 3:  
   ```bash
-  pip install -r requirements.txt
+  pip install -r Packages.txt
   ```
   
   Step 4:
